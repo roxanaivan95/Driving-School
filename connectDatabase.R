@@ -1,7 +1,7 @@
 connectDatabase <- function(){
   
   pw <- {
-    "ltypheakerax"
+    ""
   }
   
   drv <- dbDriver("PostgreSQL")
